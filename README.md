@@ -1,5 +1,9 @@
 # THE WORLD TODAY — Monday 23 November 2026
 
+[![make.fun](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/Ibnu3456787/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/Ibnu3456787/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123)
+
 A one-image front page summing up the world's news of Monday 23 November
 2026, built for the make.fun `news-image-20261123` bounty.
 
