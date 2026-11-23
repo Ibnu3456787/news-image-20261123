@@ -1,0 +1,5 @@
+# candidates and layout experiments are intermediates, never committed
+candidates/
+layouts/
+__pycache__/
+*.pyc
